@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Vuln Hunter"
+  short_description: "Authorized local vulnerability discovery and triage workflows"
+  default_prompt: "Use $local-vuln-hunter to scan this authorized target and produce a prioritized findings report."
